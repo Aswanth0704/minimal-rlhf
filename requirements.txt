@@ -1,0 +1,7 @@
+torch>=2.3
+datasets>=2.19
+nltk>=3.8
+numpy
+matplotlib
+jupyter
+ipykernel

@@ -1,0 +1,12 @@
+# runtime artifacts (pulled back with sync_results.sh)
+out/
+*.pt
+# dataset / lexicon caches on the cluster
+hf_cache/
+nltk_data/
+# notebook & python noise
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# cluster logs
+setup.log
